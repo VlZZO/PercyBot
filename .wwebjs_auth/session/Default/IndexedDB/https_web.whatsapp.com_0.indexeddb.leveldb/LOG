@@ -1,0 +1,19 @@
+2024/10/31-11:05:10.792 268c Reusing MANIFEST C:\Users\vinic\Downloads\PercyProject\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/31-11:05:10.792 268c Recovering log #217
+2024/10/31-11:05:10.816 268c Reusing old log C:\Users\vinic\Downloads\PercyProject\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000217.log 
+2024/10/31-11:05:14.417 3914 Level-0 table #225: started
+2024/10/31-11:05:14.429 3914 Level-0 table #225: 221549 bytes OK
+2024/10/31-11:05:14.430 3914 Delete type=0 #217
+2024/10/31-11:05:14.431 3914 Manual compaction at level-0 from '\x007\x00\x00\x00' @ 72057594037927935 : 1 .. '\x008\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/31-11:05:16.136 2504 Compacting 1@1 + 4@2 files
+2024/10/31-11:05:16.201 2504 Generated table #226@1: 43517 keys, 2199868 bytes
+2024/10/31-11:05:16.244 2504 Generated table #227@1: 11619 keys, 2188444 bytes
+2024/10/31-11:05:16.309 2504 Generated table #228@1: 51080 keys, 2197165 bytes
+2024/10/31-11:05:16.399 2504 Generated table #229@1: 90268 keys, 1840687 bytes
+2024/10/31-11:05:16.399 2504 Compacted 1@1 + 4@2 files => 8426164 bytes
+2024/10/31-11:05:16.400 2504 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/10/31-11:05:16.400 2504 Delete type=2 #219
+2024/10/31-11:05:16.400 2504 Delete type=2 #220
+2024/10/31-11:05:16.400 2504 Delete type=2 #221
+2024/10/31-11:05:16.400 2504 Delete type=2 #222
+2024/10/31-11:05:16.400 2504 Delete type=2 #225

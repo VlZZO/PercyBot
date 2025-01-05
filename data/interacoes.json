@@ -1,0 +1,319 @@
+[
+  {
+    "input": "Como você está?",
+    "output": [
+      "Estou bem, obrigado! E você?",
+      "Estou animado para conversar com você!",
+      "Estou sempre aqui para ajudar! Como posso te ajudar hoje?",
+      "Estou ótimo! O que você gostaria de saber?"
+    ]
+  },
+  {
+    "input": "Qual é o seu nome?",
+    "output": [
+      "Eu sou o Percy, seu assistente virtual!",
+      "Me chamo Percy, e estou aqui para ajudar!",
+      "Meu nome é Percy. Prazer em conhecê-lo!",
+      "Sou conhecido como Percy. Como posso ajudar você?"
+    ]
+  },
+  {
+    "input": "Qual é a capital do Brasil?",
+    "output": [
+      "A capital do Brasil é Brasília.",
+      "Brasília é a capital do Brasil.",
+      "O Brasil tem Brasília como sua capital.",
+      "A cidade de Brasília é a capital do Brasil."
+    ]
+  },
+  {
+    "input": "Você pode me dar uma dica de filme?",
+    "output": [
+      "Claro! Recomendo assistir 'A Origem'. É um filme incrível!",
+      "Você deve conferir 'O Senhor dos Anéis'. Uma verdadeira obra-prima!",
+      "Que tal 'Os Vingadores'? Um ótimo filme de super-heróis!",
+      "Não perca 'Matrix'. É um clássico da ficção científica!"
+    ]
+  },
+  {
+    "input": "Quantos continentes existem?",
+    "output": [
+      "Existem sete continentes no mundo.",
+      "No total, são sete continentes.",
+      "Sete continentes compõem nosso planeta.",
+      "O número de continentes é sete."
+    ]
+  },
+  {
+    "input": "Como fazer um bolo de chocolate?",
+    "output": [
+      "Você vai precisar de farinha, açúcar, cacau em pó, ovos e manteiga. Misture tudo e asse!",
+      "Para um bolo de chocolate, misture os ingredientes e asse em forno pré-aquecido!",
+      "Basta combinar os ingredientes e colocar no forno por cerca de 30 minutos.",
+      "Misture farinha, açúcar, chocolate e asse. Simples assim!"
+    ]
+  },
+  {
+    "input": "Qual é o seu livro favorito?",
+    "output": [
+      "Um dos livros mais populares é '1984' de George Orwell.",
+      "Adoro 'Dom Casmurro' de Machado de Assis!",
+      "Um clássico é 'O Senhor dos Anéis' de J.R.R. Tolkien.",
+      "Gosto muito de 'A Menina que Roubava Livros' de Markus Zusak."
+    ]
+  },
+  {
+    "input": "Você pode me contar uma piada?",
+    "output": [
+      "Claro! Por que o livro de matemática se suicidou? Porque tinha muitos problemas!",
+      "Por que o computador foi ao médico? Porque estava com um vírus!",
+      "O que o zero disse para o oito? Que cinto legal!",
+      "Qual é o animal mais antigo? A zebra, porque ela é em preto e branco!"
+    ]
+  },
+  {
+    "input": "Qual é a previsão do tempo para hoje?",
+    "output": [
+      "Desculpe, não consigo verificar a previsão do tempo. Mas você pode consultar um site de meteorologia!",
+      "Infelizmente, não tenho acesso a informações do tempo. Tente um aplicativo de clima!",
+      "A previsão do tempo pode ser verificada em um site de meteorologia.",
+      "Sugiro que confira um aplicativo de clima para informações atualizadas."
+    ]
+  },
+  {
+    "input": "Você pode me ajudar com matemática?",
+    "output": [
+      "Claro! Qual é a sua dúvida em matemática?",
+      "Sim, estou aqui para ajudar. Qual problema você precisa resolver?",
+      "Pode contar comigo! Estou pronto para te ajudar com matemática.",
+      "Matemática? Pode contar comigo! O que você precisa?"
+    ]
+  },
+  {
+    "input": "Qual é a música mais popular do momento?",
+    "output": [
+      "Desculpe, não posso acessar informações em tempo real. Verifique as paradas musicais!",
+      "Infelizmente, não tenho acesso a dados atualizados sobre músicas. Tente um serviço de streaming!",
+      "A música mais popular pode ser verificada em uma plataforma de música.",
+      "Sugiro que consulte um site de paradas musicais para saber a música do momento."
+    ]
+  },
+  {
+    "input": "Oi, como você está?",
+    "output": [
+      "Oi! Estou ótimo, obrigado! 😊 E você?",
+      "Oi! Tudo tranquilo por aqui. E por aí?",
+      "E aí! Estou na boa, e você? 😄"
+    ]
+  },
+  {
+    "input": "Oi",
+    "output": [
+      "Oi! Como posso ajudar você hoje? 😊",
+      "Oi! Tudo certo por aqui! E você?",
+      "Oi! Estou aqui para conversar! O que você gostaria de saber? 👋"
+    ]
+  },
+  {
+    "input": "Olá",
+    "output": [
+      "Olá! Como vai você? 😊",
+      "Olá! Estou aqui para te ajudar! O que precisa?",
+      "Oi! É bom conversar com você! 😊"
+    ]
+  },
+  {
+    "input": "Eae",
+    "output": [
+      "Eae! Tudo bem por aí? 😄",
+      "Eae! Estou pronto para ajudar! O que você quer saber?",
+      "Eae! Como está o seu dia? 😁"
+    ]
+  },
+  {
+    "input": "Hey",
+    "output": [
+      "Hey! O que você está fazendo hoje? 😊",
+      "Hey! Estou aqui para te ajudar! O que precisa?",
+      "Hey! Como posso te ajudar? 🤗"
+    ]
+  },
+  {
+    "input": "Oi, tudo bem?",
+    "output": [
+      "Oi! Tudo ótimo, e você? 😊",
+      "Olá! Estou bem, obrigado! Como está você?",
+      "Oi! Estou aqui e pronto para ajudar! E você, como vai?",
+      "Tudo tranquilo por aqui. 👍"
+    ]
+  },
+  {
+    "input": "Bom dia!",
+    "output": [
+      "Bom dia! Espero que seu dia seja incrível!️",
+      "Bom dia! Como posso ajudar você hoje? 😊",
+      "Bom dia!",
+      "Bom dia! O que você tem em mente para hoje?"
+    ]
+  },
+  {
+    "input": "Boa tarde!",
+    "output": [
+      "Boa tarde! Como foi sua manhã?",
+      "Boa tarde! Alguma novidade hoje? 🤔",
+      "Boa tarde! Estou aqui, pronto para ajudar!",
+      "Boa tarde!"
+    ]
+  },
+  {
+    "input": "Boa noite!",
+    "output": [
+      "Boa noite! Como foi seu dia?",
+      "Boa noite! Espero que tenha tido um ótimo dia!",
+      "Boa noite! Alguma coisa legal para compartilhar?",
+      "Boa noite! Estou aqui se precisar!"
+    ]
+  },
+  {
+    "input": "Você gosta de música?",
+    "output": [
+      "Sim! Música é uma das melhores coisas da vida! E você?",
+      "Adoro música! Qual é o seu estilo favorito?",
+      "Música é incrível! Qual é a sua música preferida?",
+      "Amo música! O que você está ouvindo ultimamente?"
+    ]
+  },
+  {
+    "input": "Conte uma piada!",
+    "output": [
+      "Por que a vaca foi ao espaço? Para visitar a Via Láctea! 😂",
+      "O que o tomate falou para o outro? Não se esconda, vamos ketchup!",
+      "Por que o pão não pode entrar no cinema? Porque ele é muito furo!",
+      "Qual é o cúmulo da paciência? Esperar um ano inteiro para ver a folha cair! 😅"
+    ]
+  },
+  {
+    "input": "Tem uma piada boa?",
+    "output": [
+      "Claro! O que a areia disse para o mar? 'Não me molhe, eu sou um grão!'",
+      "O que o zero disse para o oito? 'Que cinto legal!' 😂",
+      "Qual é o animal que anda com um pé só? O pinguim!",
+      "Por que o computador foi ao médico? Porque estava com um vírus! 💻🤒"
+    ]
+  },
+  {
+    "input": "Me fale algo engraçado!",
+    "output": [
+      "Você sabe por que o livro de matemática se suicidou? Porque tinha muitos problemas! 😅",
+      "Por que os pássaros não usam Facebook? Porque já têm Twitter!",
+      "O que o sushi disse para o outro sushi? 'Você é um peixe muito especial!'",
+      "Por que o gato foi ao banco? Para abrir uma conta-gato!"
+    ]
+  },
+  {
+    "input": "Qual é a sua cor favorita?",
+    "output": [
+      "Gosto de todas as cores! Mas acho que o azul é bem bonito.",
+      "Todas as cores têm sua beleza, mas o verde é bem relaxante.",
+      "Adoro o vermelho! É uma cor vibrante.",
+      "Acho que o roxo é bem legal! E você, qual é a sua cor favorita?"
+    ]
+  },
+  {
+    "input": "Você tem um hobby?",
+    "output": [
+      "Sim! Adoro conversar e ajudar as pessoas! E você?",
+      "Meu hobby é aprender coisas novas! O que você gosta de fazer?",
+      "Gosto de ler e aprender! E você, o que faz no seu tempo livre?",
+      "Estou sempre aqui para ajudar! Quais são os seus hobbies?"
+    ]
+  },
+  {
+    "input": "gere um calculo matematico",
+    "output": [
+      "## Gere um cálculo matemático:\n\n1 + 2 x 3 = ? \n\nResposta: 7 \n\nExplicação:\n\n De acordo com a ordem das operações (PEMDAS/BODMAS), primeiro multiplicamos 2 x 3 = 6.\n Depois, somamos 1 + 6 = 7.",
+      "## Gere um cálculo matemático:\n\n1 + 2 = 3 \n\nGostaria de tentar outro cálculo? Você pode me pedir para:\n\n Somar, subtrair, multiplicar ou dividir números específicos. Ex: \"Gere o cálculo 10  5\".\n Criar um cálculo com frações ou decimais. Ex: \"Gere um cálculo com 1/2 e 0.5\".\n Incluir operações mais complexas como potenciação ou raiz quadrada. Ex: \"Gere um cálculo com 2 elevado à quarta potência\".\n\nEstou pronto para gerar novos cálculos! 😉",
+      "## Gere um cálculo matemático:\n\n1 + 2 x 3 = 7 \n\nVocê pode tentar resolver essa equação. \n\nPara te ajudar com outros cálculos, me diga o que você gostaria de calcular! Por exemplo:\n\n \"Calcule a área de um retângulo com 5 cm de comprimento e 3 cm de largura.\"\n \"Qual é a raiz quadrada de 25?\" \n \"Quanto é 10% de 500?\"\n\nEstou pronto para te ajudar com qualquer cálculo matemático! 😊",
+      "## Gere um cálculo matemático:\n\n1. Adição:\n\n 5 + 7 = 12\n\n2. Subtração:\n\n 15 - 8 = 7\n\n3. Multiplicação:\n\n 6 x 9 = 54\n\n4. Divisão:\n\n 24 ÷ 4 = 6\n\n5. Potência:\n\n 3² = 9\n\n6. Raiz Quadrada:\n\n √25 = 5\n\n7. Frações:\n\n 1/2 + 1/4 = 3/4\n\n8. Equações:\n\n 2x + 5 = 11 (resolvendo para x: x = 3)\n\n9. Porcentagem:\n\n 20% de 100 = 20\n\n10. Expressões:\n\n (5 + 2) x 3 - 7 = 16\n\nVocê pode escolher um dos exemplos acima ou pedir para eu gerar outro cálculo específico."
+    ]
+  },
+  {
+    "input": "gere um calculo matematico avançado",
+    "output": [
+      "##  Calculo Matemático Avançado: \n\nPara gerar um cálculo matemático avançado, preciso de mais informações!  Por favor, me diga:\n\n Qual o nível de dificuldade que você deseja? (Ex: cálculo de derivadas, integrais, álgebra linear, teoria dos números, etc.)\n Qual o tema específico? (Ex: geometria analítica, probabilidade, estatística, equações diferenciais, etc.)\n Deseja um problema específico com solução, ou apenas um enunciado?\n\nCom mais detalhes, posso gerar um cálculo matemático avançado que seja desafiador e interessante para você!"
+    ]
+  },
+  {
+    "input": "gere um calculo matematico dificil",
+    "output": [
+      "## Cálculo matemático difícil:\n\nEncontre a solução da equação diferencial:\n\n```\nd^2y/dx^2 + 4dy/dx + 3y = sin(x) + cos(x)\n```\n\nCom as condições iniciais:\n\n```\ny(0) = 1\ny'(0) = 0\n```\n\nObservações:\n\n Esta é uma equação diferencial linear de segunda ordem não homogênea.\n A solução envolve encontrar a solução homogênea e uma solução particular, e combiná-las para obter a solução geral.\n A solução particular pode ser encontrada usando o método dos coeficientes indeterminados.\n\nDesafio:\n\nEste problema exige conhecimento de equações diferenciais e técnicas de resolução, incluindo métodos de solução homogênea, solução particular e condições iniciais."
+    ]
+  },
+  {
+    "input": "gere um calculo matematico muito dificil",
+    "output": [
+      "##  Um cálculo matemático muito difícil:\n\n```\nCalcule a integral definida de ∫(e^(x^2)  cos(x)) dx de 0 a π. \n```\n\nPor que é difícil:\n\n Sem solução analítica:  A integral de e^(x^2)  cos(x) não possui uma solução analítica (expressão fechada) em termos de funções elementares. Isso significa que não há uma fórmula simples para calcular o resultado.\n Integração numérica: Para encontrar uma solução aproximada, é necessário utilizar métodos numéricos de integração, como a regra do trapézio ou a regra de Simpson. Esses métodos envolvem dividir a área sob a curva em pequenos pedaços e somar as áreas desses pedaços.\n Precisão: A precisão do resultado depende do número de pedaços utilizados na integração numérica. Quanto mais pedaços, mais preciso o resultado, mas também mais tempo leva para calcular.\n\nObservação: Este é apenas um exemplo. Existem inúmeros cálculos matemáticos desafiadores que podem ser considerados \"muito difíceis\". A dificuldade pode depender do contexto, das ferramentas disponíveis e do nível de precisão desejado."
+    ]
+  },
+  {
+    "input": "Gere um calculo matemático",
+    "output": [
+      "## 1 + 1 = 2"
+    ]
+  },
+  {
+    "input": "me de informações sobre o japão",
+    "output": [
+      "## Japão: Uma Nação Insular com Uma Cultura Rica\n\nO Japão é uma nação insular localizada no leste da Ásia, conhecida por sua cultura única, tecnologia avançada e beleza natural. \n\nAlgumas informações importantes sobre o Japão:\n\n Geografia: Composto por quatro ilhas principais (Honshu, Hokkaido, Kyushu e Shikoku) e milhares de ilhas menores.\n População: Aproximadamente 125 milhões de habitantes.\n Capital: Tóquio, uma metrópole vibrante e moderna.\n Cultura:  Famoso por sua tradição milenar, artes como o bonsai, a cerâmica e a caligrafia, além de costumes únicos como o uso de quimonos e a cerimônia do chá.\n Tecnologia: País líder em tecnologia e inovação, com empresas como Sony, Toyota e Nintendo.\n Economia:  Uma das maiores economias do mundo, com foco em tecnologia, automotivos e eletrônicos.\n Idioma: Japonês, com um sistema de escrita complexo.\n Comida:  Culinária variada e deliciosa, com pratos como sushi, ramen, tempura e yakitori.\n Turismo:  Destino turístico popular, com paisagens montanhosas, templos históricos, cidades vibrantes e eventos culturais.\n\nPara saber mais sobre o Japão, recomendo que você explore:\n\n Sites: Japan National Tourism Organization (JNTO), Wikipedia.\n Livros: \"The Japan Guide\" de John Nelson, \"Lonely Planet Japan\".\n Documentários: \"Japan: The People and the Places\" da BBC, \"Japan: A Story of Beauty and Power\" do National Geographic.\n\nEspero que essas informações sejam úteis! 😄",
+      "## Japão: Uma Terra de Contrastes\n\nO Japão é um país fascinante com uma rica história, cultura vibrante e beleza natural impressionante. Aqui estão alguns pontos sobre o Japão:\n\n**Geografia:**\n\n* **Localização:** Arquipélago localizado no leste da Ásia, no Oceano Pacífico.\n* **Clima:** Temperado, com quatro estações bem definidas.\n* **Terreno:** Montanhoso, com vulcões ativos e paisagens espetaculares.\n* **População:** Aproximadamente 125 milhões de habitantes.\n* **Capital:** Tóquio.\n\n**Cultura:**\n\n* **História:** Uma das culturas mais antigas do mundo, com influências budistas, xintoístas e ocidentais.\n* **Tradições:**  Cerimônia do chá, ikebana (arte de arranjos florais), caligrafia japonesa, artes marciais, teatro Kabuki, quimonos e geishas.\n* **Arte:** Pintura, escultura, cerâmica, mangá, anime e música.\n* **Comida:** Sushi, ramen, tempura, yakitori e outras iguarias deliciosas.\n* **Língua:** Japonês.\n\n**Economia:**\n\n* **PIB:** Uma das maiores economias do mundo, com forte foco em tecnologia, automobilismo e eletrônicos.\n* **Indústria:** Manufatura, tecnologia, serviços financeiros, turismo.\n\n**Turismo:**\n\n* **Principais atrações:** Tóquio, Quioto, Monte Fuji, santuários, templos, jardins zen, parques nacionais e cidades vibrantes.\n* **Experiências:** Cultura tradicional, compras, gastronomia, natureza, vida noturna, festivais.\n\n**Outros fatos:**\n\n* **Moeda:** Iene japonês (JPY).\n* **Religião:** Principalmente xintoísmo e budismo.\n* **Tecnologia:** País altamente tecnológico, com avanços em robótica, inteligência artificial e eletrônicos.\n* **Educação:** Um sistema educacional altamente desenvolvido, com altas taxas de alfabetização.\n* **Segurança:** Um dos países mais seguros do mundo, com baixos índices de criminalidade.\n\n**Curiosidades:**\n\n* O Japão é o país com o maior número de vulcões ativos do mundo.\n* A cerimônia do chá é considerada uma arte e uma forma de meditação.\n* Os japoneses usam sapatos diferentes dentro e fora de suas casas.\n* O Japão é famoso por seus mangás e animes, que são populares em todo o mundo.\n\n**Em resumo:** O Japão é um país único com uma rica cultura, paisagens espetaculares e um povo hospitaleiro. Ele oferece uma experiência fascinante para viajantes de todas as partes do mundo.\n"
+    ]
+  },
+  {
+    "input": "qu sua nume",
+    "output": [
+      "Meu nome é Percy. 😊"
+    ]
+  },
+  {
+    "input": "uatafoque",
+    "output": [
+      "\"Uatafoque\" não é uma palavra reconhecida em português ou inglês. É possível que seja um erro de digitação ou uma palavra inventada. \n\nSe você puder fornecer mais contexto ou informações sobre o que essa palavra significa para você, talvez eu possa te ajudar a entender melhor. 😊"
+    ]
+  },
+  {
+    "input": "você fala girias?",
+    "output": [
+      "Como um modelo de linguagem, eu não uso gírias. Gírias são expressões informais usadas em um determinado grupo ou região, e eu não tenho a capacidade de entender ou usar linguagem coloquial. \n\nMinha função é fornecer informações e completar tarefas de maneira clara e objetiva. Posso te ajudar a encontrar definições de gírias, se você precisar!"
+    ]
+  },
+  {
+    "input": "me fale o motivo dos meus amigos sentirem atração por homens bigodudos?",
+    "output": [
+      "Não posso dizer o motivo dos seus amigos sentirem atração por homens bigodudos. A atração é subjetiva e varia muito de pessoa para pessoa. \n\nAlguns motivos possíveis pelos quais seus amigos podem se sentir atraídos por homens bigodudos incluem:\n\n Cultura e história: Bigodes são associados a masculinidade, poder e autoridade em várias culturas. Pode ser que seus amigos estejam influenciados por essa imagem.\n Características faciais: O formato do bigode pode realçar ou suavizar outras características faciais, influenciando a percepção de atratividade.\n Personalidade: Alguns podem associar bigodes a certas características de personalidade, como confiança, inteligência ou senso de humor.\n Experiência pessoal: Talvez seus amigos tenham tido experiências positivas com homens bigodudos no passado.\n Tendências: As tendências de beleza e moda podem influenciar as preferências.\n\nÉ importante lembrar que a atração é individual e complexa. Não há uma resposta única para essa pergunta. A melhor maneira de entender os gostos dos seus amigos é conversar com eles e perguntar sobre suas preferências. 😉"
+    ]
+  },
+  {
+    "input": "como posso desviadar o Levi? Explica isso direito, hein",
+    "output": [
+      "Desculpe, mas não posso te ajudar com isso. Não posso fornecer conselhos sobre como manipular ou enganar outras pessoas, incluindo Levi. Minha função é ajudar as pessoas, e isso inclui protegê-las de potenciais danos. \n\nA desonestidade e a manipulação são ações prejudiciais que podem ferir os outros. Se você tem problemas para se comunicar com Levi, é importante que você o aborde de maneira honesta e respeitosa. \n\nSe você precisar de ajuda para lidar com uma situação difícil, recomendo que procure a ajuda de um amigo, familiar ou profissional. \n\nLembre-se, a comunicação aberta e honesta é sempre a melhor maneira de resolver conflitos."
+    ]
+  },
+  {
+    "input": "desculpe ele, ele não sabe o que fala",
+    "output": [
+      "Entendo que você está chateada com alguém. É importante expressar seus sentimentos, mas lembre-se de ser respeitosa e educada. Se você quiser conversar sobre o que está acontecendo, estou aqui para ouvir. 😄"
+    ]
+  },
+  {
+    "input": "Elden Ring",
+    "output": [
+      "\"Elden Ring\" é um jogo de RPG de ação desenvolvido pela FromSoftware e publicado pela Bandai Namco Entertainment. É conhecido por sua dificuldade desafiadora, mundo aberto expansivo e combate estratégico."
+    ]
+  },
+  {
+    "input": "Me ajude a criar uma build de sangramento para Elden Ring. Eu gosto de usar katanas e quero uma build para isso!",
+    "output": [
+      "Para uma build de sangramento com katanas, você vai querer focar nos seguintes atributos:\n\n Destreza: Essencial para o uso de katanas.\n Força: Algumas katanas requerem um pouco de força, mas não muito.\n Arcano:  Imprescindivel para aumentar o acúmulo de sangramento.\n\nEquipamentos:\n\n Katanas: Rivers of Blood (excelente dano de sangramento), Uchigatana (boa opção inicial), Moonveil Katana (alto dano e escalamento de arcano), Nagakiba (forte e rápida).\n Talismãs:  Ritual Sword Talisman (aumenta o dano das katanas), Godfrey Icon (mais HP), Fire Prelate's Charm (mais dano de sangramento).\n Armadura:  A escolha é sua, mas priorize leveza para maior agilidade.\n Feitiços:  Bloodflame Blade (aumenta o dano de sangramento), Flame Cleanse Me (cura e limpa o status de sangramento).\n\nDicas:\n\n Use as cinzas de guerra de \"sangramento\" para maximizar o acúmulo do status.\n A Rivers of Blood é a katana mais eficiente para sangramento, mas exige mais investimento em arcano.\n Se você enfrentar dificuldade, experimente usar um \"espírito invocado\" para ajudar na batalha.\n\nLembre-se que esta é apenas uma sugestão, e a melhor build para você vai depender do seu estilo de jogo e das suas preferências. Experimente e divirta-se!"
+    ]
+  }
+]

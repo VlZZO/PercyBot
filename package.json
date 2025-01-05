@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@tensorflow/tfjs": "^4.22.0",
+    "axios": "^1.7.7",
+    "brain.js": "^2.0.0-beta.24",
+    "franc": "^6.2.0",
+    "install": "^0.13.0",
+    "npm": "^10.9.0",
+    "punycode": "^2.3.1",
+    "puppeteer": "^23.6.1",
+    "qrcode-terminal": "^0.12.0",
+    "string-similarity": "^4.0.4",
+    "whatsapp-web.js": "^1.26.0",
+    "ws": "^8.18.0"
+  },
+  "name": "percyproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
